@@ -16,7 +16,7 @@ I have completed the following free Blue Team Security courses and obtained thes
     <li><a href="https://elearning.securityblue.team/home/certificate/752352667">Introduction to Bash</a></li>
     <li><a href="https://elearning.securityblue.team/home/certificate/394942359">Introduction to Penetration Testing</a></li>
   </ul>
-<p></p>Watch this space as there will be more come to - my next goal is to do BTL1.  </p>
+<p>Watch this space as there will be more come to - my next goal is to do BTL1.</p>
   </font>
 <!--
 **ValkyrieGunna/valkyriegunna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
