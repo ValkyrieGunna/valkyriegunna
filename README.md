@@ -7,7 +7,7 @@
 
 ⚡ Fun fact: I have a huge love and interest in Cryptography and used to make cryptography puzzles as a challenge for others. 
 
-I have completed the following free Blue Team Security courses and obtained these certificates:>/p>
+I have completed the following free Blue Team Security courses and obtained these certificates:
   <ul>
     <li><a href="https://elearning.securityblue.team/home/certificate/114675683">Introduction to Network Analysis</a></li>
     <li><a href="https://elearning.securityblue.team/home/certificate/868984586">Introduction to OSINT</a></li>
