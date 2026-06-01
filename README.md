@@ -3,7 +3,7 @@
 </div>
 
 <br>
-<p font-famil="Redhat">I’m currently learning on Security Blue Team, learning the free courses and then will start doing the BTL1 course. I also enjoy digital forensics, social media intelligence and OSINT along with Gemini AI which is great for learning new things.  
+<p font-famil="Redhat">I’m currently learning on Centri (formerly known as Security Blue Team), learning the free courses and then will start doing the BTL1 course. I also enjoy digital forensics, social media intelligence and OSINT along with Gemini AI which is great for learning new things.  
 
 ⚡ Fun fact: I have a huge love and interest in Cryptography and used to make cryptography puzzles as a challenge for others. 
 
